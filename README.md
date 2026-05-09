@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @POPG092
-- 👀 I’m interested in money 
-- 🌱 I’m currently learning grade 12
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in money art and teach 
+- 🌱 I’m currently learning hardware and networking service 
+- 💞️ I’m looking to collaborate on  music content or teach study and i need some one to teach me linux 
 - 📫 How to reach me 
 
 <!---
